@@ -35,6 +35,10 @@ This project showcases my web development skills, projects, and learning journey
 
 👉 https://qurat-ul-ain-memon.github.io/codealpha-portfolio-task/
 
+## 🌐 GitHub Repository
+
+👉 https://github.com/Qurat-Ul-Ain-Memon/codealpha-portfolio-task
+
 ---
 
 ## 🎯 Purpose

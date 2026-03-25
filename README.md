@@ -1,43 +1,47 @@
 # 🌐 Portfolio Website
 
-🚀 A responsive and modern **personal portfolio website** built using **HTML and CSS** as part of my **CodeAlpha Internship**.
+🚀 A modern and responsive **personal portfolio website** built using **HTML, CSS, and JavaScript** as part of my **CodeAlpha Internship**.
 
-This project showcases my web development skills, projects, and learning journey in a clean and professional layout.
+This project highlights my web development skills, projects, and learning journey in a clean and professional layout.
 
 ---
 
 ## ✨ Features
 
-* 📱 Fully responsive design
-* 🎨 Clean and modern UI
-* 🧩 Organized sections (Home, About, Skills, Projects, Contact)
-* 💼 Project showcase with live demos
-* ⚡ Lightweight and fast
+- 📱 Fully responsive design  
+- 🎨 Clean and modern UI  
+- 🧩 Well-organized sections (Home, About, Skills, Projects, Contact)  
+- 💼 Project showcase with live demos  
+- ⚡ Fast and lightweight performance  
+- ✨ Interactive elements using JavaScript  
 
 ---
 
 ## 🛠️ Built With
 
-* HTML
-* CSS
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
 ## 📸 Projects Included
 
-* 🧮 Calculator App
-* 📝 To-Do List App
-* 🖼️ Image Gallery
+- 🧮 Calculator App  
+- 📝 To-Do List App  
+- 🖼️ Image Gallery  
 
 ---
 
 ## 🌐 Live Demo
 
-👉 https://qurat-ul-ain-memon.github.io/codealpha-portfolio-task/
+👉 [View Live Website](https://qurat-ul-ain-memon.github.io/codealpha-portfolio-task/)
 
-## 🌐 GitHub Repository
+---
 
-👉 https://github.com/Qurat-Ul-Ain-Memon/codealpha-portfolio-task
+## 💻 GitHub Repository
+
+👉 [View Source Code](https://github.com/Qurat-Ul-Ain-Memon/codealpha-portfolio-task)
 
 ---
 
@@ -49,17 +53,17 @@ This project was created to enhance my frontend development skills and gain hand
 
 ## 🙌 Acknowledgement
 
-I would like to thank **CodeAlpha** for this amazing internship opportunity that helped me grow and improve my development skills.
+I would like to thank **CodeAlpha** for providing this valuable internship opportunity that helped me grow as a developer.
 
 ---
 
-## 📌 Author
+## 👩‍💻 Author
 
-**Qurat-Ul-Ain**
-💻 Frontend Developer | Learner
+**Qurat-Ul-Ain**  
+Frontend Developer | Learner  
 
 ---
 
-## 🔖 Hashtags
+## 🔖 Tags
 
-#CodeAlpha #Portfolio #WebDevelopment #Frontend #HTML #CSS #Internship #Learning #Projects #WebDesign #CareerGrowth 🚀
+#CodeAlpha #Portfolio #WebDevelopment #Frontend #HTML #CSS #JavaScript #Internship #Projects #WebDesign #Learning 🚀
